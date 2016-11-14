@@ -1,0 +1,69 @@
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+h3 {
+  color: #932FF9;
+  text-align: center;
+  padding-top: 30px;
+}
+p {
+  color: #932FF9;
+  padding-left: 10px;
+  /*padding-top: 1px;*/
+}
+
+.rapper {
+  display: flex;
+  border: 4px solid #00B2B3;
+  width: 1260px;
+  height: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blueBox {
+  position: absolute;
+  top: 260px;
+  margin-left: 47px;
+  width: 300px;
+  height: 300px;
+  border: 3px solid #498FE2;
+  background-color: #A8C2E1;
+  /*margin: 0 auto;*/
+}
+
+.grayBorder {
+  width: 400px;
+  height: 400px;
+  background-color: #9B9B9B;
+  margin-top: 200px;
+  margin-left: 100px;
+}
+
+.lemonPic img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+
+  }
+
+  .noteBox {
+    background-color: #D8D8D8;
+    border: 2px solid #9B9B9B;
+    margin: 10px;
+
+  }
+
+.purpleTable {
+  height: 400px;
+  width: 590px;
+  border: 2px solid #932FF9;
+  margin-top: 200px;
+  margin-left: 50px;
+}
